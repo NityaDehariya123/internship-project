@@ -9,7 +9,7 @@ It demonstrates data analysis and processing on real-world datasets.
 - Used Python for implementation.
 
 ## Files
-- Untitled Notebook ... .ipynb → Main Databricks notebook exported.
+- Untitled Notebook .ipynb → Main Databricks notebook exported.
 
 ## How to Run
 1. Open the notebook in Databricks or Jupyter Notebook.
@@ -18,4 +18,4 @@ It demonstrates data analysis and processing on real-world datasets.
 
 ## Author
 👤 Nitya Dehariya  
-📧 [Your email here]
+📧 nityamehra04@gmail.com
